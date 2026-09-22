@@ -1,0 +1,46 @@
+{
+  "pytania": [
+    {
+      "pytanie": "Jaka jest stolica Polski?",
+      "odp_a": "brzydka Warszawa",
+      "odp_b": "ladny porzadny Kraków",
+      "odp_c": "przepiekny antyimigracyjny Gdańsk"
+    },
+    {
+      "pytanie": "Ile trwa prawdziwa wersja eyes wide shut?",
+      "odp_a": "2h 39 min",
+      "odp_b": "2h 9 min",
+      "odp_c": "1 godzine"
+    },
+    {
+      "pytanie": "Jaki kolor powstaje z połączenia niebieskiego i żółtego?",
+      "odp_a": "Zielony",
+      "odp_b": "Czerwony",
+      "odp_c": "Fioletowy"
+    },
+    {
+      "pytanie": "jak sie nazywa popa żona",
+      "odp_a": "popażona",
+      "odp_b": "popierzona",
+      "odp_c": "posolona"
+    },
+    {
+      "pytanie": "czemu żydzi to rasa dyskryminowana na calym swiecie?",
+      "odp_a": "bo tak",
+      "odp_b": "bo im sie nalzey",
+      "odp_c": "bo tak sie przyjelo"
+    },
+    {
+      "pytanie": "czemu osoby innego koloru skóry maja wieksza tendencje do kradziezy?",
+      "odp_a": "przypadek",
+      "odp_b": "wychowanie",
+      "odp_c": "przyzwyczajenia"
+    },
+    {
+      "pytanie": "czemu imigracja jest zła?",
+      "odp_a": "ponieważ imigranci robia brzydkie rzeczy, nie pracuja kradną, biją oraz nie szanuja religi",
+      "odp_b": "ponieważ Polska jest dla polaków",
+      "odp_c": "bo tak sie przyjelo"
+    }
+  ]
+}
